@@ -1,0 +1,9 @@
+WORKER_ID,FIRST_NAME,LAST_NAME,SALARY,JOINING_DATE,DEPARTMENT
+1,monika,Arora,10000,"2014-04-15 00:00:00",HR
+2,Nihana,verma,80000,"2014-04-15 00:00:00",Admin
+3,vishal,Singhal,30000,"2014-04-15 00:00:00",HR
+4,Amitabh,singal,50000,"2014-04-15 00:00:00",Admin
+5,vivek,Bhati,20000,"2014-04-15 00:00:00",Admin
+6,vipul,Diwan,7500,"2014-04-15 00:00:00",Account
+7,satish,Kuman,9000,"2014-04-15 00:00:00",Account
+8,Geetika,Chauhan,8000,"2014-04-15 00:00:00",Admin
